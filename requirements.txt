@@ -1,0 +1,10 @@
+voila
+folium
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+scikit-learn
+statsmodels
+bokeh
